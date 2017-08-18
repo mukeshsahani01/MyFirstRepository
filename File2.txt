@@ -1,10 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Created file 2
 
 
 commit 21
 
 commit 22
+=======
+Created file 2
+>>>>>>> parent of 71dea93... Commit 21
 =======
 Created file 2
 >>>>>>> parent of 71dea93... Commit 21
