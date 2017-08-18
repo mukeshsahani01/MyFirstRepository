@@ -1,3 +1,13 @@
 Hello Git...Welcome ...!!!
 
+<<<<<<< HEAD
 Hi Git
+
+
+XYZ
+
+
+hfyfhghjgfhjggvhj
+=======
+Hi Git
+>>>>>>> parent of 57d1a81... Change 2
